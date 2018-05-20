@@ -1,0 +1,2 @@
+# collectd
+Collectd config snippets
